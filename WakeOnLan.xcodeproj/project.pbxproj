@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		FFA60F2C24FD635400AF7A40 /* WakeOnLan */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = WakeOnLan; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFA60F2F24FD635400AF7A40 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		FFA60F3624FD63BE00AF7A40 /* WakeOnLan.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WakeOnLan.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				FFA60F2F24FD635400AF7A40 /* main.c */,
+				FFA60F3624FD63BE00AF7A40 /* WakeOnLan.h */,
 			);
 			path = WakeOnLan;
 			sourceTree = "<group>";
