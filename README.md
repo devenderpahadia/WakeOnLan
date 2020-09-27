@@ -39,6 +39,6 @@ Valid Syntax:
     00:32:D5:35:EF:63
 ScreenShot Of Working Of the project and successful sending of the Magic Packet.
   ![alt text](https://github.com/garvitchaudhary9/WakeOnLan/blob/master/ScreenshotOfWorkingOfWakeOnLan.png)  
-    
+Note That I am The Only Contributor to the project when I was Working on the project I accidently Committed via my Brother's github profile on the local Repository.    
     
     
