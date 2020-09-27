@@ -52,9 +52,9 @@ Valid Syntax:
     # Servers mac address
     00:32:D5:35:EF:63
 
-ScreenShot Of Working Of the project and successful sending of the Magic Packet.
+Screenshot : Successfully sent Magic Packet!!
   ![alt text](https://github.com/garvitchaudhary9/WakeOnLan/blob/master/ScreenshotOfWorkingOfWakeOnLan.png)  
 
-Note That I am The Only Contributor to the project when I was Working on the project I accidently Committed via my Brother's github profile on the local Repository.    
+Note That I am The Only Contributor to the project when I was Working on the project I accidently Committed via my Brother's github profile on the local Repository,thats why in some of the files like main.c and WakeOnLan.h he is also visible as one of the contributor.    
     
     
