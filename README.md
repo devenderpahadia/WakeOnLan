@@ -34,4 +34,7 @@ Valid Syntax:
 
     # Servers mac address
     00:32:D5:35:EF:63
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.partitionwizard.com%2Fpartitionmanager%2Fenable-wake-on-lan.html&psig=AOvVaw2vhEw2j9w206OaHUaH46Ys&ust=1601300490551000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiKpaq7iewCFQAAAAAdAAAAABAD
+    
+    
+    
+    
