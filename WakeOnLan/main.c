@@ -16,7 +16,9 @@
 #include <sys/socket.h>//macros used : AF_INET,SOCK_DGRAM,IPPROTO_UDP ;fuction used : socket(),setsockopt(),
 #include <arpa/inet.h>//structure used : sockaddr_in ; function used : inet_aton()
 #include <errno.h>//function used : strerror()
-
+/*
+ Function Definations
+ */
 mac_address_t *nextAddressFromArguments( char **argument, int length )
 {
     static int i=0;//static variable used so that we can access it after the function ends
