@@ -1,4 +1,7 @@
 # WakeOnLan
+The Project Contains Two Folders:
+1.WakeOnLan.xcodeproj-This Contains The Workspace files Of xcode Project
+2.WakeOnLan - This contians the header file and c file of Wake On Lan.
 This contains a c program named “main.c”and a header file named ”wakeOnLan.h”.This Program is designed to send Magic Packet to the Targeted Pc to turn it on.
 Prerequisite:
 Must turn on the wake on lan by going into the bios settings.
@@ -34,7 +37,8 @@ Valid Syntax:
 
     # Servers mac address
     00:32:D5:35:EF:63
-    
+ScreenShot Of Working Of the project and successful sending of the Magic Packet.
+  ![alt text](https://github.com/garvitchaudhary9/WakeOnLan/blob/master/ScreenshotOfWorkingOfWakeOnLan.png)  
     
     
     
