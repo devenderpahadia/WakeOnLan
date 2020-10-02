@@ -55,6 +55,6 @@ Valid Syntax:
 Screenshot : Successfully sent Magic Packet!!
   ![alt text](https://github.com/garvitchaudhary9/WakeOnLan/blob/master/ScreenshotOfWorkingOfWakeOnLan.png)  
 
-Note that I am the only contributor to the project when I was working on the project I accidently committed on git via my Brother's github profile on the local Repository,thats why in some of the files like main.c and WakeOnLan.h he is also visible as one of the contributor.    
+Note that I and Devender Kumar Pahadia are the only contributors to the project when I was working on the project I accidently committed on git via my Brother's github profile on the local Repository,thats why in some of the files like main.c and WakeOnLan.h he is also visible as one of the contributor.    
     
     
